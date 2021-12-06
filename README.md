@@ -1,5 +1,5 @@
 # JsProject-3
-🎬 <strong>ReactJS로 영화 웹 서비스 만들기</strong><br><br>
+🎬 <strong>ReactJS로 영화 웹 서비스 만들기</strong><br><br><br>
 
 
 > ### 기능 
